@@ -77,4 +77,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Finance Consultancy Club - fcc@iith.ac.in
 
-Project Link: [https://github.com/purna985/fcc-iith-website](https://github.com/your-username/fcc-iith-website)
+Project Link: [https://github.com/purna985/fcc-iith-website](https://github.com/purna985/fcc-iith-website)
